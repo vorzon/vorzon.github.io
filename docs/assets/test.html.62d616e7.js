@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as s,F as c,a as e,b as r}from"./app.bd7c3672.js";const n={},o=e("h3",{id:"basic",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#basic","aria-hidden":"true"},"#"),r(" basic")],-1),_=e("p",null,"ldsnasn",-1);function d(i,l){return t(),s(c,null,[o,_],64)}var f=a(n,[["render",d],["__file","test.html.vue"]]);export{f as default};

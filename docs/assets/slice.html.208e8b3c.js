@@ -1,0 +1,1 @@
+const e={key:"v-813073f0",path:"/golang/basic/slice.html",title:"Slice",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"Slice",description:"Slice\u57FA\u672C\u4F7F\u7528\u4E0E\u5E95\u5C42\u539F\u7406"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"golang/basic/slice.md"};export{e as data};
